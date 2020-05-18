@@ -19,3 +19,10 @@ Look around you for problems.
 
 Find something interesting since I will spend a lot of time on it.
 * Computer Networks summary:
+Early networks were too large and expensive. Small networks called LANs were popular. for these LANs to transform information, ethernet was used.
+Ethernet is bunch of computers connected to eachother with physical cabels. To distinguish the computers MAC addresses are used. 
+The problem with ethernet is when two computers write data at the same time and if they write at the same time collusuion occurs. To 
+prevent this computers wait randomly wait before writing. The more the collusion, the more the computer waits. Instead of this, there can be
+many collutions domains there can be more transmissions at the same time so it prevents collution. Message switching: there are many stops
+at the route so there are many ways the information passed to another place. When a big file is transfered, it creates a problem. the small
+file has to wait the big file to complete transmission. This can be prevented by seperating it into small packets. It is like series of tubes.
